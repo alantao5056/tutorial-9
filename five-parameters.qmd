@@ -14,3 +14,4 @@ library(tidyverse)
 library(primer.data)
 ```
 
+My question is: How long do political candidates live after the election? I have examined the preceptor table and validity. One problem is that the birth and death dates of losing candidates aren't well documented. 
